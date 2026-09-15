@@ -6,7 +6,7 @@ I created this software because transportation information in Samoa can be diffi
 
 The village names used in this project are real Samoa locations. The bus routes and travel-time estimates are sample data created for this prototype and are not official bus schedules.
 
-[Software Demo Video](PASTE-YOUR-YOUTUBE-LINK-HERE)
+[Software Demo Video](https://youtu.be/1OXvHNsY9Uc?si=_ii0WRGOk2HiwAYD)
 
 # Development Environment
 
