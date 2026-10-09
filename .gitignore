@@ -1,3 +1,4 @@
+
 ### IntelliJ IDEA ###
 .idea/
 *.iml
@@ -47,3 +48,9 @@ ehthumbs.db
 
 ### Logs ###
 *.log
+
+### SQLite Database ###
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
